@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter id="arch">
+  <title>Architecture</title>
+
+  <section id="arch.data">
+    <title>Data</title>
+
+    <para></para>
+
+    <section>
+      <title>Reading Data</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>Writing Data</title>
+
+      <para></para>
+    </section>
+  </section>
+
+  <section id="arch.web">
+    <title>Web Interface</title>
+
+    <para></para>
+  </section>
+</chapter>

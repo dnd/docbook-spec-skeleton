@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?><section id='uc.???'>
+  <title/>
+
+  <para/>
+
+    <para><emphasis role='bold'>Actor(s): </emphasis><simplelist type='inline' id='uc.???.actors'>
+      <member/>
+    </simplelist></para>
+
+  <para><emphasis role='bold'>Priority: </emphasis> </para>
+
+  <para><emphasis role='bold'>Business Risk: </emphasis> </para>
+
+  <para><emphasis role='bold'>Complexity: </emphasis> </para>
+
+  <section>
+    <title>Success Guarantee</title>
+
+    <itemizedlist>
+      <listitem>
+        <para/>
+      </listitem>
+    </itemizedlist>
+  </section>
+
+  <section>
+    <title>Minimal Guarantee</title>
+
+    <itemizedlist>
+      <listitem>
+        <para/>
+      </listitem>
+    </itemizedlist>
+  </section>
+
+  <section>
+    <title>Main Success Scenario</title>
+
+    <procedure>
+      <step>
+        <para><emphasis role='bold'>Actor: </emphasis></para>
+      </step>
+
+      <step>
+        <para><emphasis role='bold'>System: </emphasis></para>
+      </step>
+    </procedure>
+  </section>
+
+  <section>
+    <title>Extensions</title>
+
+    <para>None</para>
+  </section>
+</section>

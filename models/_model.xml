@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="models.???">
+  <title></title>
+
+  <para></para>
+
+  <table>
+    <title></title>
+
+    <tgroup cols="8">
+      <thead>
+        <row>
+          <entry>Field</entry>
+
+          <entry>Data Type</entry>
+
+          <entry>Size</entry>
+
+          <entry>Format</entry>
+
+          <entry>Default</entry>
+
+          <entry>Required</entry>
+
+          <entry>Values</entry>
+
+          <entry>Description</entry>
+        </row>
+      </thead>
+
+      <tbody>
+        <row>
+          <entry></entry>
+
+          <entry></entry>
+
+          <entry></entry>
+
+          <entry></entry>
+
+          <entry></entry>
+
+          <entry></entry>
+
+          <entry></entry>
+
+          <entry></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</section>

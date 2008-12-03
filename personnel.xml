@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appendix id="appx.personnel">
+  <title>Personnel</title>
+
+  <section id="appx.personnel.core_dev">
+    <title>Core Development Team</title>
+
+    <para></para>
+
+    <table>
+      <title></title>
+
+      <tgroup cols="4">
+        <thead>
+          <row>
+            <entry>Name</entry>
+
+            <entry>Role</entry>
+
+            <entry>Email Address</entry>
+
+            <entry>Phone</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry></entry>
+
+            <entry></entry>
+
+            <entry><email></email></entry>
+
+            <entry></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+
+  <section id="appx.personnel.business">
+    <title>Business Group</title>
+
+    <para></para>
+
+    <table>
+      <title>Business Personnel</title>
+
+      <tgroup cols="4">
+        <thead>
+          <row>
+            <entry>Name</entry>
+
+            <entry>Role</entry>
+
+            <entry>Email Address</entry>
+
+            <entry>Phone</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry></entry>
+
+            <entry></entry>
+
+            <entry><email></email></entry>
+
+            <entry></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+
+  <section id="appx.personnel.extern_dev">
+    <title>External Development</title>
+
+    <para></para>
+
+    <table>
+      <title>External Development Personnel</title>
+
+      <tgroup cols="4">
+        <thead>
+          <row>
+            <entry>Name</entry>
+
+            <entry>Role</entry>
+
+            <entry>Email Address</entry>
+
+            <entry>Phone</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry></entry>
+
+            <entry></entry>
+
+            <entry><email></email></entry>
+
+            <entry></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+</appendix>
